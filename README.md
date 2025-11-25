@@ -12,3 +12,4 @@ This project implements an 8-bit Asynchronous FIFO (First-In-First-Out) memory i
 4. Simulated asynchronous behavior with different write and read clock frequencies to demonstrate robust performance.
 
 5. Gained experience in digital design concepts, such as clock domain crossing, memory synchronization, and FIFO pointer logic.
+6. Completed full RTL-to-GDSII flow using Cadence Genus and Innovus, including synthesis, floorplanning, placement, CTS, routing, timing closure, and DRC/LVS checks.
