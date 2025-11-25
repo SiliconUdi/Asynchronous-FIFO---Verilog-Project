@@ -1,4 +1,4 @@
-# Asynchronous-FIFO---Verilog-Project
+# Asynchronous-FIFO---Verilog-Project (RTL to GDSII)
 I have implemented asynchronous fifo using verilog code.
 
 This project implements an 8-bit Asynchronous FIFO (First-In-First-Out) memory in Verilog. The FIFO supports independent write and read clocks, uses Gray-coded pointers for safe clock domain crossing, and provides full/empty status flags. A Verilog testbench validates the design with multiple write/read cycles and produces waveforms for analysis. This project demonstrates key concepts in digital design, FPGA/ASIC prototyping, and asynchronous data handling.
